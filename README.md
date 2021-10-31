@@ -26,3 +26,20 @@ Relation Source for Transportation
 ### Tool
 1. [Openstreetmap](https://www.openstreetmap.org/#map=9/25.2744/110.3384)
 2. [LibCity（阡陌）](https://github.com/LibCity/Bigscity-LibCity/blob/master/readme.md)
+
+### 学术工具
+1. [中南大学图书馆](http://lib.csu.edu.cn/)
+2. [超星发现](http://ss.zhizhen.com/)
+3. [中国知网](https://www.cnki.net/)
+4. [万方数据](http://www.wanfangdata.com.cn/index.html)
+5. [百度学术](https://xueshu.baidu.com/)
+6. [Google 学术](https://scholar.google.com/)
+7. [Google 学术镜像](https://ac.scmor.com/)
+8. [SCI-Hub](https://tool.yovisun.com/scihub/)
+9. [Arxiv Sanity Preserver](http://www.arxiv-sanity.com/)
+10. [arXiv](https://arxiv.org/)
+11. [X-MOL](https://www.x-mol.com/)
+12. [ZLibary--数字图书馆](https://1lib.limited/)
+13. [科研通-文献求助网站](https://www.ablesci.com/)
+14. [在线latex](https://www.overleaf.com/)
+15. [文献管理mendeley](https://www.mendeley.com/download-reference-manager/)
