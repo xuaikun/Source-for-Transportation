@@ -22,10 +22,15 @@ Relation Source for Transportation
 11. [机器之心数据集](https://www.jiqizhixin.com/sota)
 12. [到达时间评估数据集-Kaggle交通数据集](https://www.kaggle.com/crailtap/taxi-trajectory)
 13. [到达时间评估数据集](https://causlayer.orgs.hk/khaled-alkilane/GSTA)
+14. [交通预测数据集](https://paperswithcode.com/task/traffic-prediction)
 
 ### Tool
 1. [Openstreetmap](https://www.openstreetmap.org/#map=9/25.2744/110.3384)
 2. [LibCity（阡陌）](https://github.com/LibCity/Bigscity-LibCity/blob/master/readme.md)
+
+### 好的推文
+1. [如何做研究](https://mp.weixin.qq.com/s/gAsaa7fAraE5B-vm_izFTg?client=tim&ADUIN=727850024&ADSESSION=1577595981&ADTAG=CLIENT.QQ.5603_.0&ADPUBNO=26882)
+2. [如何写论文](https://mp.weixin.qq.com/s/KiKObjQRCAIYl6twSj07rA)
 
 ### 学术工具
 1. [中南大学图书馆](http://lib.csu.edu.cn/)
