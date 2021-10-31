@@ -5,7 +5,8 @@ Relation Source for Transportation
 2. [Bigscity-LibCity-PaperList->Paper-List-for-Transportation](https://github.com/LibCity/Bigscity-LibCity-PaperList)
 
 ### Code
-
+1. [多模态交通推荐](https://github.com/xuaikun/Paddle_baseline_KDD2019)
+2. [多模态交通推荐](https://github.com/ywc1026/KDD-CUP-2019)
 
 ### Dataset
 1. [Bus Data](http://motor.ece.iit.edu/Data/)
