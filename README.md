@@ -31,6 +31,7 @@ Relation Source for Transportation
 ### 好的推文
 1. [如何做研究](https://mp.weixin.qq.com/s/gAsaa7fAraE5B-vm_izFTg?client=tim&ADUIN=727850024&ADSESSION=1577595981&ADTAG=CLIENT.QQ.5603_.0&ADPUBNO=26882)
 2. [如何写论文](https://mp.weixin.qq.com/s/KiKObjQRCAIYl6twSj07rA)
+3. [如何看论文](https://github.com/mli/paper-reading)
 
 ### 学术工具
 1. [中南大学图书馆](http://lib.csu.edu.cn/)
