@@ -6,9 +6,11 @@ Relation Source for Transportation
 3. [DL4Traffic](https://github.com/jwwthu/DL4Traffic)
 
 ### Code
-1. [多模态交通推荐](https://github.com/xuaikun/Paddle_baseline_KDD2019)
+1. [多模态交通推荐-百度baseline](https://github.com/xuaikun/Paddle_baseline_KDD2019)
 2. [多模态交通推荐](https://github.com/ywc1026/KDD-CUP-2019)
-3. [交通方面的代码](https://github.com/aptx1231/Traffic-Prediction-Open-Code-Summary)
+3. [多模态交通推荐-MTRecS-DLT](https://github.com/xuaikun/MTRecS-DLT)
+4. [多模态交通推荐-THAN](https://github.com/xuaikun/THAN)
+5. [交通方面的代码](https://github.com/aptx1231/Traffic-Prediction-Open-Code-Summary)
 
 ### Dataset
 1. [Bus Data](http://motor.ece.iit.edu/Data/)
