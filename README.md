@@ -4,6 +4,7 @@ Relation Source for Transportation
 1. [GNN4Traffic->Paper-List-for-Transportation](https://github.com/jwwthu/GNN4Traffic)
 2. [Bigscity-LibCity-PaperList->Paper-List-for-Transportation](https://github.com/LibCity/Bigscity-LibCity-PaperList)
 3. [DL4Traffic](https://github.com/jwwthu/DL4Traffic)
+4. [HIN source](http://www.shichuan.org/HIN_topic.html)
 
 ### Code
 1. [多模态交通推荐-百度baseline](https://github.com/xuaikun/Paddle_baseline_KDD2019)
@@ -54,3 +55,5 @@ Relation Source for Transportation
 13. [科研通-文献求助网站](https://www.ablesci.com/)
 14. [在线latex](https://www.overleaf.com/)
 15. [文献管理mendeley](https://www.mendeley.com/download-reference-manager/)
+16. [期刊分区查询](http://www.letpub.com.cn/index.php?page=journalapp)
+17. [会议等级查询](https://www.ccf.org.cn/Academic_Evaluation/By_category/)
