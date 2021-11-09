@@ -32,7 +32,8 @@ Relation Source for Transportation
 ### Tool
 1. [Openstreetmap](https://www.openstreetmap.org/#map=9/25.2744/110.3384)
 2. [LibCity（阡陌）](https://github.com/LibCity/Bigscity-LibCity/blob/master/readme.md)
-3. [交通方面的工具](https://github.com/aptx1231/Traffic-Prediction-Open-Code-Summary)
+3. [LibCity视频解说](https://m.bilibili.com/video/BV1cS4y1d7hf?spm_id_from=333.999.0.0)
+4. [交通方面的工具](https://github.com/aptx1231/Traffic-Prediction-Open-Code-Summary)
 
 ### 好的推文
 1. [如何做研究](https://mp.weixin.qq.com/s/gAsaa7fAraE5B-vm_izFTg?client=tim&ADUIN=727850024&ADSESSION=1577595981&ADTAG=CLIENT.QQ.5603_.0&ADPUBNO=26882)
